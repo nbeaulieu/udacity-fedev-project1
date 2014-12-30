@@ -1,0 +1,16 @@
+Nicole Beaulieu
+Udacity Front End Developer
+Project 1 - Udacity Mug with Bootstrap.
+Submission 2
+December 29, 2014
+
+The following list includes the sites I referenced while developing this site for project submission:
+
+In completing this project, I used the following resources to assist with my understanding of bootstrap's features:
+
+http://getbootstrap.com/css/
+http://stackoverflow.com/questions/10805707/bootstrap-tab-font-size-not-changing-with-css
+http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-lists.php
+http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-typography.php
+
+Nicole Beaulieu
